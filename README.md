@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Varchasav Kumar</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
-<img align="right" alt="coding" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width=400 height=300>
+<img align="right" alt="coding" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width=350 height=300>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varchasavkr&label=Profile%20views&color=0e75b6&style=flat" alt="varchasavkr" /> </p>
 
 - 📫 How to reach me **varchasav25@gmail.com**
