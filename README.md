@@ -20,5 +20,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varchasavkr&show_icons=true&locale=en&layout=compact" alt="varchasavkr" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varchasavkr&show_icons=true&locale=en" alt="varchasavkr" /></p>
-
+[![An image of @varchasavkr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/varchasavkr)](https://holopin.io/@varchasavkr)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varchasavkr&" alt="varchasavkr" /></p>
+
+
+
